@@ -4,7 +4,7 @@ save_data_on_exit = True
 save_history = True
 save_non_project_files = False
 project_type = 'empty-project-type'
-recent_files = ['..\\..\\.spyder-py3\\temp.py', 'ai\\chabot.py']
+recent_files = ['..\\..\\.spyder-py3\\temp.py', 'ai\\chabot.py', 'ai\\untitled2.py', 'ai\\word-to-vectore.py', 'ai\\token.py', 'ai\\tdf.py', 'ai\\stemming.py', 'ai\\NLP.ipynb', 'ai\\lemmetizations.py', 'ai\\lem.py', 'ai\\text classifications.ipynb', 'ai\\natural language processing.py']
 
 [main]
 version = 0.2.0
